@@ -11,8 +11,6 @@ The project is built on Django which communicates with the Machine Learning Mode
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
