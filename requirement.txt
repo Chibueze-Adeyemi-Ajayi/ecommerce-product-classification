@@ -1,11 +1,11 @@
-# create a simple rest endpoint
+# create a simple rest endpoint [Done]
 
 ## create a class called: NLP
-    - load json data from pandas
-    - munge the data by replacing empty space with -
-    - instantiate spacy
-    - remove stop words from data
-    - process each data to vector using spacy
+    - load json data from pandas [Done]
+    - munge the data by replacing empty space with - [Done]
+    - instantiate spacy - [Done]
+    - remove stop words from data - [Done]
+    - process each data to vector using spacy - [Done]
     - set the X as description and Y as Category :
         NB: We are trying to predict the category(Y) of a product from just it's description(5)
     - load KNN and train the model with the data
