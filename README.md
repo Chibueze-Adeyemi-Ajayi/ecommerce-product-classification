@@ -8,13 +8,16 @@ The project is built on Django which communicates with the Machine Learning Mode
 
 ## Table of Contents
 
-- [Features](#features)
+- [Libraries](#libraries)
 - [Installation](#installation)
 - [Usage](#usage)
 
-## Features
+## Libraries
 
-- [List the key features of your project]
+- Numpy
+- Spacy
+- Pandas
+- Sci-Kit Learn
 
 ## Installation
 
